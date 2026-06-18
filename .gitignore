@@ -1,3 +1,7 @@
 /node_modules
 /videos
 /dummydata
+# env files (restored by security fix)
+.env
+.env.*
+!.env.example
